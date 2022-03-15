@@ -1,2 +1,2 @@
-# green-behaviour
-a repo for data analysis on human behavior towards ecological food
+# Green-behaviour
+The human behaviour that could prevent climate disasters 
